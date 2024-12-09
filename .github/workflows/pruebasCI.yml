@@ -82,4 +82,4 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/ddk2002tos:latest
+          tags: ghcr.io/ddk2002/tos:latest
